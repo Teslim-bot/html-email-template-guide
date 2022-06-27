@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+table{
+    border-collapse: collapse;
+}
+p{
+    margin: 0;
+    font-size: 16px;
+    line-height: 24px;
+    color: #153643;
+}
+.top{
+    background-color: #70bbd9;
+    text-align: -webkit-center;
+}
+.content{
+    background-color: #ffffff;
+    padding: 40px 30px 40px 30px;
+}
+.cell-2{
+    padding: 20px 0px 30px 0px;
+}
+.mailbox-txt.stamp-txt{
+    padding: 25px 0 0 0;
+}
+.footer{
+    background-color: #ee4c50;
+    padding: 30px 30px;
+}
+i{
+    border-radius: 50%;
+    color: black;
+    /* background-color: white; */
+    padding: 10px;
+    /* border: 5px black; */
+    font-size: 25px;
+}
